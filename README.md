@@ -30,7 +30,7 @@ Tools         Git · Vercel · Claude Code
 ---
 
 ### 📍 Lagos, Nigeria
-### 🌍 Building for Africa first
+### 🌍 Building for Africa first then the world next
 
 ---
 
